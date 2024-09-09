@@ -18,7 +18,7 @@
 
 <h2 id="preview">Preview</h2>
 
->Application PreView
+>Application PreView with function
 
 1. 회원가입 및 로그인 동작
 
@@ -36,6 +36,18 @@ https://github.com/user-attachments/assets/7aa4a88f-667d-43d3-af0e-b5d6ebf055c2
 
 https://github.com/user-attachments/assets/f51a14fb-6ad6-45a7-9b2e-ebf07817313f
 
+6. 댓글 목록 및 추가, 삭제
+
+https://github.com/user-attachments/assets/803632e0-e748-43b9-84a7-c645428ed8a1
+
+8. 게시글 작성시 텍스트 스타일 변경
+
+https://github.com/user-attachments/assets/ee97e778-5169-4590-a775-9b494f46cd0f
+
+9. 오프라인 모드 설정
+
+https://github.com/user-attachments/assets/7c1ce0e3-fa14-463c-a86b-e62028372fe9
+
 <h2 id="library">Library</h2>
 
 >This Project included this Library and API.
@@ -50,3 +62,6 @@ https://github.com/user-attachments/assets/f51a14fb-6ad6-45a7-9b2e-ebf07817313f
 9. Paging
 10. datastore
 11. navigation-compose
+12. Room
+13. mohamedrejeb.richeditor
+14. Spring Boot(v3.1.5) with Swagger UI(REST API Documentation Tool)
